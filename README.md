@@ -16,6 +16,12 @@ I'm [vcokltfre](https://vcokltf.re), a software developer and infrastructure ner
 - fastapi
 - starlette-discord
 - jinja2
+- cloudflare workers
+
+## Websites
+
+- svelte
+- cloudflare pages
 
 ---
 
