@@ -2,26 +2,16 @@
 
 I'm [vcokltfre](https://vcokltf.re), a software developer and infrastructure nerd who makes lots of things in Python. I usually make Discord bots using libraries like [disnake](https://github.com/disnakedev/disnake) and [nextcord](https://github.com/nextcord/nextcord). I also develop libraries of my own sometimes, like [corded](https://github.com/vcokltfre/corded). If I'm not making Discord bot's I'm likely handling infrastructure and moderation for a few Discord servers, or creating APIs in FastAPI. I also like to write technical articles and tutorials, keep an eye out for more of those coming soon!
 
-## Software Stack
+## Languages I use
 
-- python (using poetry)
-- postgres (via asyncpg)
+(In order of proficiency)
 
-### Discord Bots
-
-- disnake
-
-### APIs
-
-- fastapi
-- starlette-discord
-- jinja2
-- cloudflare workers
-
-## Websites
-
-- svelte
-- cloudflare pages
+- Python (with nextcord/disnake, asyncpg, ormar, asyncio)
+- TypeScript/JavaScript (with CF workers, Svelte)
+- C#
+- Golang
+- Rust
+- Elixir
 
 ---
 
