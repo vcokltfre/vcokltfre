@@ -7,9 +7,9 @@ I'm [vcokltfre](https://vcokltf.re), a software developer and infrastructure ner
 (In order of proficiency)
 
 - Python (with nextcord/disnake, asyncpg, ormar, asyncio)
+- Golang (Echo, Gorm)
 - TypeScript/JavaScript (with CF workers, Svelte)
 - C#
-- Golang
 - Rust
 - Elixir
 
